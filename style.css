@@ -1,0 +1,59 @@
+body {
+    background-color: #f4f1ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+   color: purple; font-size: 48px; text-align: center;
+}
+
+h2 {
+    color: teal;
+}
+
+footer {
+    text-align: center; font-size: 14px;
+}
+
+.class {
+    color: navy; text-align: center;
+}
+
+.top-banner {
+    background-color: gold;
+}
+
+.card {
+    background-color: white;
+}
+
+.join {
+    background-color: lightpink;
+}
+
+.note {
+    font-weight: bold;
+}
+
+.fine-print {
+    opacity: 0.6;
+}
+
+.button {
+    background-color: orange;
+}
+
+li .highlight {
+    color: crimson; font-weight: bold;
+}
+
+.menu {
+    background-color: navy;
+    href {
+        color: white; font-size: 20px;
+    }
+}
+
+.note .special {
+    color: green;
+}
